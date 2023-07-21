@@ -1,0 +1,31 @@
+- Git. 
+  1. Salah satu software yang menggunakan Version Control System untuk
+     mengelola perubahan file di dalam folder atau (repository).
+  2. Riwayat perubahan file disimpan menggunakan serangkaian (commit).
+  3. Setiap commit memiliki (hash) atau penanda, author, date dan pesan 
+     sebuah perubahan.
+  4. Sebuah commit dapat bercabang (branch) dan dapat digabungkan lagi 
+     (merge).
+  5. Git dapat dijalankan secara lokal.
+
+- Version Control System (VCS)
+  1. Sistem yang bisa mengelola perubahan. 
+  2. Dapat kolaborasi.
+  3. Dapat kembali dikeadaan sebelum perubahan (checkout).
+
+- Apa itu GitHub.
+  1. Website untuk mengelola project git.
+  2. Github terdapat git di dalamnya.
+
+- Istilah - istilah.
+  1. Repo     : Folder project.
+  2. Commit   : Rekaman atau snapshot dari repo kita.
+  3. Hash     : Penanda unik pada sebuah commit.
+  4. Checkout : Berpindah dari sebuah commit atau branch.
+  5. Branch   : Cabang bebas dari sebuah commit tanpa menggangu cabang
+                master atau main.
+  6. Merge    : Menggabungkan branch.
+  7. Remote   : Sumber yang memiliki repo.
+  8. Clone    : Mengambil repo dari remote.
+  9. Push     : Mengirimkan commit ke repo.
+  10. Pull    : Mengambil commit dari repo.

@@ -1,0 +1,2 @@
+- q
+- git checkout <7 digit hash>

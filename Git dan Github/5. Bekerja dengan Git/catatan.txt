@@ -1,0 +1,19 @@
+- pwd
+- ls
+- cd [path]
+- clear
+
+- git 
+- git --version
+- git config
+- git help
+- git init
+- git status
+- git add .
+- git config --global user.email "mrifkimaulana1998@gmail.com"
+- git config --global user.name  "mrifkimaulanaa"
+- git commit -m "[pesan]";
+- git log [-3] [--namaFile.css]
+- git checkout [5 digit hash commit] [--namaFile.css]
+
+- esc :q!
