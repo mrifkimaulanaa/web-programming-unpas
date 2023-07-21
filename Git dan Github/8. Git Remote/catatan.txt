@@ -1,16 +1,7 @@
-- git clone <path>
-- git remote
-- git remote -v
-- git remote add origin <path>
-- git remote set-url --add <name> <path>
-- git remote set-url --add <name> <path>
+- mkdir [nama-folder]
+
+- git clone [link]
+- git remote [-v]
 - git push
-- git push -u origin main/master
-- git config --list
-- git branch -M main/master
-- git fetch
-- git pull
 
 - :q
-- mkdir
-- code .
