@@ -2,7 +2,7 @@
 
 - git clone [link]
 - git remote [-v] [add] [nama] [link]
-- git push [-u] [origin] [main/master]
+- git push [-u] [origin] [namaBranch]
 - git fetch
 - git pull
 
