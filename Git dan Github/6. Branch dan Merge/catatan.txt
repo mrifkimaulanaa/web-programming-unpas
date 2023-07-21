@@ -1,0 +1,9 @@
+alias [namaAlias="git log --all --decorate --oneline --graph"]
+
+- git commit -am "[pesan]"
+- git branch [-d] [-D] [namaBranch] [--merged]
+- git log --all --decorate --oneline --graph
+- git checkout [namaBranch]
+- git merge [namaBranch]
+
+- esc :wq!
