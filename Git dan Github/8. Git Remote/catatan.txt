@@ -1,7 +1,7 @@
 - mkdir [nama-folder]
 
 - git clone [link]
-- git remote [-v]
+- git remote [-v] [add] [nama] [link]
 - git push
 
 - :q
